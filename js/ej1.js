@@ -1,0 +1,1 @@
+window.addEventListener("click", () => alert("Alerta Boton Clickado"))
